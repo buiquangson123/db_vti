@@ -1,0 +1,225 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mũ lưỡi trai ❤️ Nón kết thêu chữ Memorie phong cách Ulzzang form unisex nam nữ N01",
+      "price": 35000,
+      "description": "Mũ lưỡi trai thêu chữ Memorie rất hợp cạ với những trang phục thiên về sự năng động, thoải mái và trẻ trung.",
+      "category": "Thời trang nam",
+      "title": "Yêu thích",
+      "date": "2022/03/12",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "name": "Áo thun nam POLO trơn vải cá sấu cotton cao cấp ngắn tay cực sang trọng",
+      "price": 99000,
+      "description": "Áo thun nam polo trơn vải cá sấu cotton cao cấp mềm mịn, áo phông polo nam đẹp cổ bẻ ngắn tay có đủ bảng màu cực hot",
+      "category": "Thời trang nam",
+      "title": "Yêu thích",
+      "date": "2022/03/12",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 3,
+      "name": "Quần sịp đùi nam hàng cao cấp, quần sịp nam đẹp thoáng mát, co giãn đủ màu hàng loại 1 thương hiệu biluxurytuson",
+      "price": 28800,
+      "description": "Chất liệu thun lạnh mềm mịn, thoáng mát",
+      "category": "Thời trang name",
+      "title": "Yêu thích",
+      "date": "2021/06/11",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 4,
+      "name": "Quần jogger thể thao nỉ nam nữ LITAIA Quần thun dài nam 3 sọc thu đông SB01",
+      "price": 79000,
+      "description": "QUẦN THUN DÀI phù hợp mặc đi chơi, đi thể dục thể thao.",
+      "category": "Thời trang name",
+      "title": "Shop mail",
+      "date": "2022/03/01",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 5,
+      "name": "Đồng hồ điện tử Led Mtt5 trẻ em nhân vật hoạt hình ngộ nghĩnh TT56",
+      "price": 14000,
+      "description": "Kích thước mặt: 1,5cm x 5cm, dày:4mm",
+      "category": "Đồng hồ",
+      "title": "Shop mail",
+      "date": "2022/02/14",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 6,
+      "name": "Đồng hồ nam dây da cao cấp Geneva chống nước 3ATM đồng hồ thời trang cho nam giá rẻ sang trọng lịch lãm",
+      "price": 145000,
+      "description": "Mặt Đồng hồ nam dây da Geneva được thiết kế hợp lý tới từng chữ số, đơn giản nhưng không hề nhàm chán lại cực kỳ dễ xem giờ.",
+      "category": "Đồng hồ",
+      "title": "Yêu thích",
+      "date": "2022/02/14",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 7,
+      "name": "Pin đồng hồ dự phòng ( giá 1 viên )",
+      "price": 1000,
+      "description": "Pin cho khách, pin này sử dụng cho hầu hết các sản phẩm đồng hồ 3kim  thông dụng",
+      "category": "Đồng hồ",
+      "title": "Yêu thích",
+      "date": "2022/01/12",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 8,
+      "name": "Đồng Hồ Nữ GEDI Dây Thép Mặt Đính Đá Sang Chảnh",
+      "price": 280000,
+      "description": "Với thiết kế nhỏ nhắn và sành điệu, đồng hồ GEDI cực kì thích hợp với đối tượng khách hàng là các bạn trẻ, đang là học sinh, sinh viên.",
+      "category": "Đồng hồ",
+      "title": "Yêu thích",
+      "date": "2021/03/12",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 9,
+      "name": "Bình Đựng Nước 2L Dễ Thương Có Vạch Báo Giờ Uống Nước",
+      "price": 99000,
+      "description": "Sản phẩm đã được kiểm định an toàn chất lượng.",
+      "category": "Thời trang và du lịch",
+      "title": "Shop mail",
+      "date": "2022/01/22",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 10,
+      "name": "Quả bóng đá tiêu chuẩn - Loại 3 lớp - Banh da số 5",
+      "price": 119000,
+      "description": "Dòng sản phẩm phù hợp với đối tượng thiếu niên hoặc dành cho đá tập tại nhà.",
+      "category": "Thời trang và du lịch",
+      "title": "Shop mail",
+      "date": "2022/04/01",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 11,
+      "name": "giày đá bóng,giày đá banh ⚡tặng tất⚡ đã khâu đế 100%",
+      "price": 98000,
+      "description": "Dùng cho dân PHỦI, loại 3 sọc CT3 có đế TF , đinh  thấp , thích hợp đá bóng trên mặt sân cỏ nhân tạo",
+      "category": "Thời trang và du lịch",
+      "title": "Yêu thích",
+      "date": "2022/02/22",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 12,
+      "name": "Băng Cổ Tay Thấm Mồ Hôi Thể Thao Chất Liệu Cotton Co Giãn Phù Hợp Chơi Bóng Rổ, Cầu Lông, Tennis, Chạy Bộ, Tập Gym",
+      "price": 12000,
+      "description": "Được sử dụng cho hoạt động thể thao Outdoor & Indoor, tất cả các môn thể thao như bóng đá, bóng rổ, cầu lông, bóng chày, quần vợt....",
+      "category": "Thời trang và du lịch",
+      "title": "Yêu thích",
+      "date": "2022/03/12",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 13,
+      "name": "Bộ 2 vợt bóng bàn tặng kèm 3 bóng GoodFit, cốt vợt 7 lớp, mặt mút đàn hồi, chất lượng đạt chuẩn GF001TS",
+      "price": 35000,
+      "description": "100% sản phẩm là chính hãng, đáp ứng tiêu chuẩn Châu Âu",
+      "category": "Thời trang và du lịch",
+      "title": "Yêu thích",
+      "date": "2022/03/30",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 14,
+      "name": "Tông Đơ Cắt Tóc - Đầu Sạc USB - Tặng Kèm 9 Phụ Kiện",
+      "price": 299000,
+      "description": "Bộ sản phẩm bao gồm: 1 tông đơ, 4 đầu thay thế, 1 chai dầu máy, 1 dây sạc usb, 1 lược, 1 chổi vệ sinh",
+      "category": "Sắc đẹp",
+      "title": "Yêu thích",
+      "date": "2022/03/01",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 15,
+      "name": "[Mã FMCGMALL -8% đơn 250K] Sữa rửa mặt Nivea Men Deep White Oil Clear 100g - 84415",
+      "price": 70000,
+      "description": "SỮA RỬA MẶT NIVEA MEN DEEP WHITE OIL CLEA với công thức chứa thành phần than đen hoạt tính",
+      "category": "Sắc đẹp",
+      "title": "Shop mail",
+      "date": "2022/03/25",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 16,
+      "name": "Bút Kẻ Mày FOCALLURE Đầu 4 Nhánh Phẩy Sợi Bền Màu Chống Nước 10g",
+      "price": 23000,
+      "description": "Thiết kế 4 nhánh, tạo hiệu ứng tự nhiên như sợi lông",
+      "category": "Sắc đẹp",
+      "title": "Yêu thích",
+      "date": "2022/04/02",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 17,
+      "name": "[Mã 44FMCGSALE giảm 8% đơn 500K] Bông tẩy trang 222 miếng Lameila BTT222",
+      "price": 23500,
+      "description": "Aura cosmetic tổng đại lý phân phối bông tẩy trang lớn nhất Việt Nam. Chuyên cung cấp bông tẩy trang giá tận gốc.",
+      "category": "Sắc đẹp",
+      "title": "Shop mail",
+      "date": "2022/03/24",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    }
+  ]
+}
